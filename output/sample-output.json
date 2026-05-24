@@ -1,0 +1,45 @@
+{
+    "emails:": [
+        "support@techpulse.io",
+        "hello.team@techpulse.co.uk",
+        "jane_smith@alueducation.com.",
+        "press_office@media.techpulse.org",
+        "john.doe@si.alueducation.com.",
+        "j.morris+dev@company-name.net",
+        "jane12doe@alumni.alueducation.com."
+    ],
+    "Credit card numbers:": [
+        "4111 1111 1111 1111",
+        "5500-0000-0000-0004",
+        "6011000990139424"
+    ],
+    "hashtags:": [
+        "#signup",
+        "#TechPulseWeekly",
+        "#APIDesign",
+        "#WebDev2026",
+        "#OpenSource",
+        "#100DaysOfCode",
+        "#DevLife",
+        "#AIinProduction",
+        "#TechPulse",
+        "#BuildInPublic"
+    ],
+    "urls:": [
+        "https://www.techpulse.io",
+        "http://blog.techpulse.io/weekly.",
+        "https://api.techpulse.io/v2/docs?ref=newsletter&lang=en.",
+        "https://partners.techpulse.io/login#signup.",
+        "https://blog.techpulse.io/api-patterns\">Read",
+        "https://cdn.techpulse.io/images/api-banner.png\""
+    ],
+    "ALU official emails:": [
+        "jane_smith@alueducation.com"
+    ],
+    "ALU Alumni emails:": [
+        "jane12doe@alumni.alueducation.com"
+    ],
+    "ALU Si emails:": [
+        "john.doe@si.alueducation.com"
+    ]
+}
